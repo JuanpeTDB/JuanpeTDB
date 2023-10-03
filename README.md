@@ -1,9 +1,8 @@
-### Hi there 👋
-**Nacional Nacional**
+### Bienvenid@ 👋
+**Perfil de Juan Pedro Albanell**
 
-> Repositorio de prueba
-> de clase GIT
-🤘
+> Repositorios
+>🤘
 <!--
 **JuanpeTDB/JuanpeTDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
